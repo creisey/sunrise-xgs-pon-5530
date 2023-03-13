@@ -1,4 +1,4 @@
-Welcome to the sunrise-xpon-5530 wiki!
+Welcome to the sunrise-xgs-pon-5530 wiki!
 
 if you end up here, you want to try getting online with your Fritzbox 5530 Fiber.
 
